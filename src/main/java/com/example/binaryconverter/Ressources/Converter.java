@@ -1,4 +1,4 @@
-package Ressources;
+package com.example.binaryconverter.Ressources;
 
 public class Converter
 {

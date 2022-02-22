@@ -1,5 +1,5 @@
-package Controller;
-import Ressources.Converter;
+package com.example.binaryconverter.Controller;
+import com.example.binaryconverter.Ressources.Converter;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
